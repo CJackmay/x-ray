@@ -38,6 +38,7 @@ describe('absolute URLs with <base> tag', function () {
 
   it('should convert relative URL', function () {
     var $el = cheerio.load(head + '<a href="foobar.html"></a>')
+    //console.log('URL from load is :'+ $el)
     assert.equal(head + '<a href="http://example.com/foo/foobar.html"></a>', absolute(path, $el).html())
   })
 

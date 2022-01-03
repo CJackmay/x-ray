@@ -9,11 +9,11 @@
     "email": "matt@lapwinglabs.com"
   },
   "contributors": [
-   "Paul Barrett",
-   "Kiko Beats <josefrancisco.verdu@gmail.com>",    
-   "Fabien Franzen <info@atelierfabien.be>",
-   "Wah Loon Keng <kengzwl@gmail.com>",
-   "Daniel Lathrop <daniel.lathrop@gmail.com>"
+    "Paul Barrett",
+    "Kiko Beats <josefrancisco.verdu@gmail.com>",
+    "Fabien Franzen <info@atelierfabien.be>",
+    "Wah Loon Keng <kengzwl@gmail.com>",
+    "Daniel Lathrop <daniel.lathrop@gmail.com>"
   ],
   "repository": {
     "type": "git",
